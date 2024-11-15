@@ -25,7 +25,7 @@ This project involves customer segmentation and sales analysis for an online ret
 
 ## 📊 Interactive Power BI Dashboard
 
-[![Retail Online Power BI Report](![Screenshot 2024-11-12 160955](https://github.com/user-attachments/assets/cfff308f-8cc3-4510-ba8b-6ca61e92a38e)
+![Screenshot 2024-11-12 160955](https://github.com/user-attachments/assets/cfff308f-8cc3-4510-ba8b-6ca61e92a38e)
 )](https://app.powerbi.com/view?r=eyJrIjoiYWM0M2MxNTMtY2I5MS00YmNmLTlmMTAtN2U5NGVhZTEwNmZkIiwidCI6IjU2Mzg0Yzc0LWIzNWMtNDhkNS04OTZhLTZiNWFkNzJiYmFkMiJ9)
 
 Click the image above to view the interactive Power BI report.
